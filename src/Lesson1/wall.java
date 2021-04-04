@@ -10,4 +10,5 @@ public class wall extends Obstacles{
         public void Doit(Competitor competitor) {
             competitor.jump(Height);
         }
-    }
+
+}
